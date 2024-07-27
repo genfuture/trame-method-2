@@ -2,7 +2,7 @@
 
 For this example i m using cone from trame example
 
-pip install django trame
+pip install django trame vtk
 
 python manage.py start_trame - this will run the example with socket
 
